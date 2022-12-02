@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="txt_main_activity">Main Activity</string>
+    <string name="nav_open">NAV OPEN</string>
+    <string name="nav_close">NAV CLOSE</string>
+    <string name="nav_txt_home">Home</string>
+    <string name="nav_txt_favorite">Favorite</string>
+    <string name="nav_txt_sign_in">Sign In</string>
+    <string name="txt_result">Result</string>
+    <string name="txt_title_home">BCC NEWS</string>
+    <string name="txt_feed_title">Title</string>
+    <string name="txt_feed_url">URL</string>
+    <string name="txt_feed_description">Description</string>
+    <string name="txt_feed_guid">GUID</string>
+    <string name="txt_feed_publish_date">Publish Date</string>
+    <string name="txt_add_to_favorite">Add to favorite</string>
+    <string name="btn_add">Add</string>
+    <string name="nav_menu_add_feed">Add Source</string>
+    <string name="btn_delete">Delete</string>
+    <string name="version">Version2.3.4</string>
+    <string name="version2_3_4">Version2.3.4</string>
+</resources>

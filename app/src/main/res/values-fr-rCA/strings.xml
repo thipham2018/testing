@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="txt_main_activity">Main Activity</string>
+    <string name="nav_open">NAV ouvert</string>
+    <string name="nav_close">NAV proche</string>
+    <string name="nav_txt_home">Domicile</string>
+    <string name="nav_txt_favorite">Favorite</string>
+    <string name="nav_txt_sign_in">Sidentifier</string>
+    <string name="txt_result">Résultat</string>
+    <string name="txt_title_home">BCC Vouvelles</string>
+    <string name="txt_feed_title">Titre</string>
+    <string name="txt_feed_url">URL</string>
+    <string name="txt_feed_description">La description</string>
+    <string name="txt_feed_guid">GUID</string>
+    <string name="txt_feed_publish_date">Date de publication</string>
+    <string name="txt_add_to_favorite">Ajouter aux Favoris</string>
+    <string name="btn_add">Ajouter</string>
+    <string name="nav_menu_add_feed">Ajouter un flux</string>
+    <string name="btn_delete">Effacer</string>
+    <string name="version">Version2.3.4</string>
+    <string name="version2_3_4">Version2.3.4</string>
+</resources>
